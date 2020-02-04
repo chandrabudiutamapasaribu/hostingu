@@ -1,0 +1,47 @@
+{
+	"menu": [
+		{
+			"kategori": "yamaha",
+			"nama": "Yamaha APX 500ii",
+			"deskripsi": "Gitar Akustik Elektrik Yamaha APX 500ii paling murah banyak bonusnya ",
+			"harga": 200000,
+			"gambar": "Gitar Akustik Elektrik Yamaha APX 500ii paling murah banyak bonusnya.jpeg"
+		},
+		{
+			"kategori": "yamaha",
+			"nama": "Yamaha Fx310",
+			"deskripsi": "Jual Gitar Elektro Akustik Yamaha Fx310 Original chanzmusic",
+			"harga": 500000,
+			"gambar": "Jual Gitar Elektro Akustik Yamaha Fx310 Original Electro Acoustic Guitar Kota Bekasi Arttech Tokopedia.jpg"
+		},
+		{
+			"kategori": "gibson",
+			"nama": "Les Paul",
+			"deskripsi": "Gitar Gibson Les Paul Standart",
+			"harga": 100000,
+			"gambar": "Gitar Gibson Les Paul Standart.jpg"
+		},
+		{
+			"kategori": "gibson",
+			"nama": "Les Paul",
+			"deskripsi": "gitar elektrik gibson les paul custom",
+			"harga": 70000,
+			"gambar": "gitar elektrik gibson les paul custom.jpeg"
+		},
+		{
+			"kategori": "fender",
+			"nama": "Fender FA125 Original",
+			"deskripsi": "Jual Gitar Akustik Elektrik Fender FA125 Original",
+			"harga": 60000,
+			"gambar": "Jual Gitar Akustik Elektrik Fender FA125 Original.jpeg"
+		},
+		{
+			"kategori": "fender",
+			"nama": "hot sale Fender CD-100CE ",
+			"deskripsi": "hot sale Gitar Akustik Elektrik Fender CD-100CE (kelas di atas Yamaha)",
+			"harga": 90000,
+			"gambar": "hot sale Gitar Akustik Elektrik Fender CD-100CE (kelas di atas Yamah.jpeg"
+		}
+		
+	]
+}
